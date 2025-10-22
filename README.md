@@ -55,7 +55,7 @@ The richer the lord, the higher the chance to get better-quality loot.
 ## 💬 Feedback & Support
 This mod is still under development.  
 For bug reports, feature requests, or updates, please use the GitHub Issues page:  
-👉 [https://github.com/YourUsername/PrisonerPlunder/issues](https://github.com/YourUsername/LordPlunder/issues)
+👉 [https://github.com/IMaresaLI/LordPlunder/issues](https://github.com/IMaresaLI/LordPlunder/issues)
 
 ---
 
