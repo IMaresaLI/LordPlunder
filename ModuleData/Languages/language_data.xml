@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language_data>
+    <language id="Türkçe" name="Türkçe" xml_path="ModuleData/Languages/TR/std_mod_strings_TR.xml" />
+    <language id="English" name="English" xml_path="ModuleData/Languages/EN/std_mod_strings_EN.xml" />
+</language_data>

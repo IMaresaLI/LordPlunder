@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="str_prisoner_plunder_mod_loaded" text="Esir Yağmalama Modu yüklendi!" />
+    <string id="str_prisoner_plunder_mod_active" text="Esir Yağmalama aktif!" />
+    <string id="str_prisoner_plunder_loot_title" text="Esir Lordlar" />
+    <string id="str_prisoner_plunder_loot_message" text="{COUNT} esir lordunuz var. Hepsini birden mi yağmalayacaksınız, yoksa her biriyle ayrı mı ilgileneceksiniz?" />
+    <string id="str_prisoner_plunder_individual_loot_title" text="Lordu Yağmala" />
+    <string id="str_prisoner_plunder_individual_loot_message" text="{HERO_NAME} yağmalansın mı?&#xA;Mevcut ilişki: {CURRENT_RELATION}" />
+    <string id="str_prisoner_plunder_relation_warning" text="Yağmalama sonrası ilişki: {MIN_RELATION} ile {MAX_RELATION} arası" />
+    <string id="str_prisoner_plunder_yes_loot" text="Evet, yağmala" />
+    <string id="str_prisoner_plunder_no_skip" text="Hayır, geç" />
+    <string id="str_prisoner_plunder_all_lots" text="Hepsini Yağmala" />
+    <string id="str_prisoner_plunder_skip_all" text="Hepsini Geç" />
+    <string id="str_prisoner_plunder_other_options" text="Tek Tek Seç" />
+    <string id="str_prisoner_plunder_victory_loot" text="Zafer! Esirler yağmalanıyor..." />
+    <string id="str_prisoner_plunder_loot_canceled" text="Esir lordları yağmalamamayı seçtiniz." />
+    <string id="str_prisoner_plunder_looting_prisoner" text="Ganimet yolda. {HERO_NAME} yağmalanıyor..." />
+    <string id="str_prisoner_plunder_prisoner_looted" text="{COUNT} esir lord yağmalandı!" />
+    <string id="str_prisoner_plunder_gold_looted" text="{GOLD_AMOUNT} altın yağmalandı!" />
+    <string id="str_prisoner_plunder_all_items_looted" text="{ITEM_COUNT} eşya TAMAMEN yağmalandı!" />
+    <string id="str_prisoner_plunder_no_items_looted" text="{HERO_NAME}'nin yağmalanacak eşyası yok" />
+    <string id="str_prisoner_plunder_loot_skipped" text="{HERO_NAME} atlandı ve tekrar sorulmayacak." />
+    <string id="str_prisoner_plunder_all_loot_skipped" text="{COUNT} lord atlandı ve tekrar sorulmayacak." />
+    <string id="str_prisoner_plunder_more_prisoners_waiting" text="{COUNT} esir daha bekliyor." />
+    <string id="str_prisoner_plunder_execution_loot" text="{HERO_NAME} son nefesini verdi. Tüm hazineleri artık sizin." />
+    <string id="str_prisoner_plunder_execution_gold" text="İDAM BONUSU! {HERO_NAME}'den alınan TÜM para: {GOLD_AMOUNT} altın!" />
+    <string id="str_prisoner_plunder_execution_item" text="İDAM BONUSU! {HERO_NAME}'nin {ITEM_NAME} eşyası alındı! (Değer: {ITEM_VALUE})" />
+    <string id="str_prisoner_plunder_relation_penalty" text="{HERO_NAME} ile ilişkiniz {PENALTY} değişti. Yeni ilişki: {NEW_RELATION}" />
+    <string id="str_prisoner_plunder_clan_relation_penalty" text="{CLAN_NAME} klanı ile ilişkiniz {PENALTY} değişti." />
+    <string id="str_prisoner_plunder_looted_weapon" text="{HERO_NAME}'nin {ITEM_NAME} silahı alındı!" />
+    <string id="str_prisoner_plunder_looted_helmet" text="{HERO_NAME}'nin {ITEM_NAME} miğferi alındı!" />
+    <string id="str_prisoner_plunder_looted_armor" text="{HERO_NAME}'nin {ITEM_NAME} zırhı alındı!" />
+    <string id="str_prisoner_plunder_looted_shield" text="{HERO_NAME}'nin {ITEM_NAME} kalkanı alındı!" />
+    <string id="str_prisoner_plunder_looted_horse" text="{HERO_NAME}'nin {ITEM_NAME} atı alındı!" />
+    <string id="str_prisoner_plunder_looted_item" text="{HERO_NAME}'nin {ITEM_NAME} eşyası alındı!" />
+    <string id="str_prisoner_plunder_looted_inventory" text="{HERO_NAME}'den {ITEM_NAME} TAMAMEN yağmalandı! (x{ITEM_COUNT})" />
+    <string id="str_prisoner_plunder_loot_package" text="{HERO_NAME}'den rastgele {ITEM_COUNT} eşya yağmalanıyor..." />
+    <string id="str_prisoner_plunder_loot_results" text="{HERO_NAME}'den yağmalanan {ITEM_COUNT} eşya:" />
+    <string id="str_prisoner_plunder_no_looted_items" text="{HERO_NAME}'den hiçbir eşya yağmalanamadı!" />
+    <string id="str_prisoner_plunder_item_pool_initialized" text="Eşya havuzları: Toplam {TOTAL_ITEMS}, yağmalanabilir {LOOTABLE_ITEMS}. Fakir({POOR_COUNT}), Orta({MEDIUM_COUNT}), Zengin({RICH_COUNT}), Efsanevi({EPIC_COUNT})" />
+    <string id="str_prisoner_plunder_default_pool_used" text="Varsayılan eşya havuzları kullanılıyor..." />
+    <string id="str_prisoner_plunder_default_pool_results" text="Varsayılan eşya havuzları: Fakir({POOR_COUNT}), Orta({MEDIUM_COUNT}), Zengin({RICH_COUNT}), Efsanevi({EPIC_COUNT})" />
+    <string id="str_prisoner_plunder_error" text="Error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_sync_error" text="SyncData error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_battle_end_error" text="Battle end error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_tick_error" text="Tick Error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_prisoner_process_error" text="Prisoner processing error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_inquiry_error" text="Inquiry error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_loot_process_error" text="Looting process error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_relation_error" text="Relation penalty error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_execution_error" text="Execution looting error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_equipment_error" text="Equipment looting error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_gold_error" text="Gold looting error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_item_error" text="Item adding error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_random_item_error" text="Random item error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_item_pool_error" text="Item pool initialization error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_default_item_error" text="Default item adding error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_release_error" text="Release error: {ERROR_MESSAGE}" />    
+    <string id="str_prisoner_plunder_skip_options_title" text="Esir Lordlar" />
+    <string id="str_prisoner_plunder_skip_current_only" text="Sadece Bunu Geç" />
+    <string id="str_prisoner_plunder_all_prisoners_looted" text="Tüm esir lordların eşyaları başarıyla yağmalandı." />
+  </strings>
+</base>

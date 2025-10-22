@@ -1,0 +1,26 @@
+<Module>
+  <Name value="Prisoner Plunder" />
+  <Id value="PrisonerPlunder" />
+  <Version value="v1.3.2" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" DependentVersion="v1.1.0" Optional="false"/>
+    <DependedModule Id="SandBoxCore" DependentVersion="v1.1.0" Optional="false"/>
+    <DependedModule Id="Sandbox" DependentVersion="v1.1.0" Optional="false"/>
+    <DependedModule Id="StoryMode" DependentVersion="v1.1.0" Optional="false"/>
+  </DependedModules>
+  <ModuleType value="Community" />
+
+  <SubModules>
+    <SubModule>
+      <Name value="PrisonerPlunder" />
+      <DLLName value="PrisonerPlunder.dll" />
+      <SubModuleClassType value="PrisonerPlunder.PrisonerPlunderSubModule" />
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+</Module>

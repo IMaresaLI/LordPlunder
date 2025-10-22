@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="str_prisoner_plunder_mod_loaded" text="Prisoner Plunder Mod loaded!" />
+    <string id="str_prisoner_plunder_mod_active" text="Prisoner Plunder active!" />
+    <string id="str_prisoner_plunder_loot_title" text="Prisoner Lords" />
+    <string id="str_prisoner_plunder_loot_message" text="You have {COUNT} captive lords. Will you plunder them all at once, or deal with each one individually?" />
+    <string id="str_prisoner_plunder_individual_loot_title" text="Plunder Lord" />   
+    <string id="str_prisoner_plunder_individual_loot_message" text="Do you want to plunder {HERO_NAME}?&#10;Current relation: {CURRENT_RELATION}" />
+    <string id="str_prisoner_plunder_relation_warning" text="Relation after plunder: between {MIN_RELATION} and {MAX_RELATION}" />
+    <string id="str_prisoner_plunder_yes_loot" text="Yes, plunder" />
+    <string id="str_prisoner_plunder_no_skip" text="No, plunder" />
+    <string id="str_prisoner_plunder_all_lots" text="Plunder Them All" />
+    <string id="str_prisoner_plunder_skip_all" text="Skip All" />
+    <string id="str_prisoner_plunder_other_options" text="Select One by One" />
+    <string id="str_prisoner_plunder_victory_loot" text="Victory! Prisoners are being plundered..." />
+    <string id="str_prisoner_plunder_loot_canceled" text="You chose not to plunder the prisoner lords." />
+    <string id="str_prisoner_plunder_looting_prisoner" text="Spoils incoming.{HERO_NAME} is being plundered..." />
+    <string id="str_prisoner_plunder_prisoner_looted" text="{COUNT} prisoner lords plundered!" />
+    <string id="str_prisoner_plunder_gold_looted" text="{GOLD_AMOUNT} gold plundered!" />
+    <string id="str_prisoner_plunder_all_items_looted" text="{ITEM_COUNT} items COMPLETELY plundered!" />
+    <string id="str_prisoner_plunder_no_items_looted" text="{HERO_NAME} has no items to loot" />
+    <string id="str_prisoner_plunder_loot_skipped" text="{HERO_NAME} skipped and won't be asked again." />
+    <string id="str_prisoner_plunder_all_loot_skipped" text="{COUNT} lords skipped and won't be asked again." />
+    <string id="str_prisoner_plunder_more_prisoners_waiting" text="{COUNT} more prisoners waiting." />
+    <string id="str_prisoner_plunder_execution_loot" text="{HERO_NAME} has drawn their final breath. All treasures now fall into your hands." />
+    <string id="str_prisoner_plunder_execution_gold" text="EXECUTION BONUS! ALL money taken from {HERO_NAME}: {GOLD_AMOUNT} gold!" />
+    <string id="str_prisoner_plunder_execution_item" text="EXECUTION BONUS! {HERO_NAME}'s {ITEM_NAME} taken! (Value: {ITEM_VALUE})" />
+    <string id="str_prisoner_plunder_relation_penalty" text="Your relation with {HERO_NAME} changed by {PENALTY}. New relation: {NEW_RELATION}" />
+    <string id="str_prisoner_plunder_clan_relation_penalty" text="Your relation with {CLAN_NAME} clan changed by {PENALTY}." />
+    <string id="str_prisoner_plunder_looted_weapon" text="{HERO_NAME}'s {ITEM_NAME} weapon taken!" />
+    <string id="str_prisoner_plunder_looted_helmet" text="{HERO_NAME}'s {ITEM_NAME} helmet taken!" />
+    <string id="str_prisoner_plunder_looted_armor" text="{HERO_NAME}'s {ITEM_NAME} armor taken!" />
+    <string id="str_prisoner_plunder_looted_shield" text="{HERO_NAME}'s {ITEM_NAME} shield taken!" />
+    <string id="str_prisoner_plunder_looted_horse" text="{HERO_NAME}'s {ITEM_NAME} horse taken!" />
+    <string id="str_prisoner_plunder_looted_item" text="{HERO_NAME}'s {ITEM_NAME} item taken!" />
+    <string id="str_prisoner_plunder_looted_inventory" text="{ITEM_NAME} COMPLETELY looted from {HERO_NAME}! (x{ITEM_COUNT})" />
+    <string id="str_prisoner_plunder_loot_package" text="Looting {ITEM_COUNT} random items from {HERO_NAME}..." />
+    <string id="str_prisoner_plunder_loot_results" text="{ITEM_COUNT} items plundered from {HERO_NAME}:" />
+    <string id="str_prisoner_plunder_no_looted_items" text="No items plundered from {HERO_NAME}!" />
+    <string id="str_prisoner_plunder_item_pool_initialized" text="Item pools: {TOTAL_ITEMS} total, {LOOTABLE_ITEMS} lootable. Poor({POOR_COUNT}), Medium({MEDIUM_COUNT}), Rich({RICH_COUNT}), Epic({EPIC_COUNT})" />
+    <string id="str_prisoner_plunder_default_pool_used" text="Using default item pools..." />
+    <string id="str_prisoner_plunder_default_pool_results" text="Default item pools: Poor({POOR_COUNT}), Medium({MEDIUM_COUNT}), Rich({RICH_COUNT}), Epic({EPIC_COUNT})" />
+    <string id="str_prisoner_plunder_error" text="Error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_sync_error" text="SyncData error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_battle_end_error" text="Battle end error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_tick_error" text="Tick Error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_prisoner_process_error" text="Prisoner processing error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_inquiry_error" text="Inquiry error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_loot_process_error" text="Looting process error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_relation_error" text="Relation penalty error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_execution_error" text="Execution looting error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_equipment_error" text="Equipment looting error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_gold_error" text="Gold looting error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_item_error" text="Item adding error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_random_item_error" text="Random item error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_item_pool_error" text="Item pool initialization error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_default_item_error" text="Default item adding error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_release_error" text="Release error: {ERROR_MESSAGE}" />
+    <string id="str_prisoner_plunder_skip_options_title" text="Prisoner Lords" />
+    <string id="str_prisoner_plunder_skip_current_only" text="Skip This Only" />
+    <string id ="str_prisoner_plunder_all_prisoners_looted" text="All prisoner lords have been processed." />
+  </strings>
+</base>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="English" name="English" subtitle_extension="en-US" supported_iso="en,eng,en-us" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.EnglishTextProcessor" under_development="false">
+ <LanguageFile xml_path="EN/std_mod_strings_EN.xml" />
+</LanguageData>
