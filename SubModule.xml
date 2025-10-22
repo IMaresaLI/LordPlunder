@@ -1,6 +1,6 @@
 <Module>
-  <Name value="Prisoner Plunder" />
-  <Id value="PrisonerPlunder" />
+  <Name value="Lord Plunder" />
+  <Id value="LordPlunder" />
   <Version value="v1.3.2" />
   <SingleplayerModule value="true" />
   <MultiplayerModule value="false" />
@@ -14,9 +14,9 @@
 
   <SubModules>
     <SubModule>
-      <Name value="PrisonerPlunder" />
-      <DLLName value="PrisonerPlunder.dll" />
-      <SubModuleClassType value="PrisonerPlunder.PrisonerPlunderSubModule" />
+      <Name value="LordPlunder" />
+      <DLLName value="LordPlunder.dll" />
+      <SubModuleClassType value="LordPlunder.LordPlunderSubModule" />
       <Tags>
         <Tag key="DedicatedServerType" value="none" />
         <Tag key="IsNoRenderModeElement" value="false" />

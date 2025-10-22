@@ -4,8 +4,8 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="str_prisoner_plunder_mod_loaded" text="Prisoner Plunder Mod loaded!" />
-    <string id="str_prisoner_plunder_mod_active" text="Prisoner Plunder active!" />
+    <string id="str_prisoner_plunder_mod_loaded" text="Lord Plunder Mod loaded!" />
+    <string id="str_prisoner_plunder_mod_active" text="Lord Plunder active!" />
     <string id="str_prisoner_plunder_loot_title" text="Prisoner Lords" />
     <string id="str_prisoner_plunder_loot_message" text="You have {COUNT} captive lords. Will you plunder them all at once, or deal with each one individually?" />
     <string id="str_prisoner_plunder_individual_loot_title" text="Plunder Lord" />   

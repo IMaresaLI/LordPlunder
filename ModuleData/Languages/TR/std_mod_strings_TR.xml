@@ -4,8 +4,8 @@
     <tag language="Türkçe" />
   </tags>
   <strings>
-    <string id="str_prisoner_plunder_mod_loaded" text="Esir Yağmalama Modu yüklendi!" />
-    <string id="str_prisoner_plunder_mod_active" text="Esir Yağmalama aktif!" />
+    <string id="str_prisoner_plunder_mod_loaded" text="Lord Yağmalama Modu yüklendi!" />
+    <string id="str_prisoner_plunder_mod_active" text="Lord Yağmalama aktif!" />
     <string id="str_prisoner_plunder_loot_title" text="Esir Lordlar" />
     <string id="str_prisoner_plunder_loot_message" text="{COUNT} esir lordunuz var. Hepsini birden mi yağmalayacaksınız, yoksa her biriyle ayrı mı ilgileneceksiniz?" />
     <string id="str_prisoner_plunder_individual_loot_title" text="Lordu Yağmala" />
