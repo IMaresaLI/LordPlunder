@@ -38,7 +38,7 @@ The richer the lord, the higher the chance to get better-quality loot.
 ---
 
 ## 📦 Installation
-1. Download the latest version from the **[Releases](https://github.com/YourUsername/Prisoner Plunder/releases)** page.  
+1. Download the latest version from the **[Releases](https://github.com/IMaresaLI/LordPlunder/releases/tag/1.3.2)** page.  
 2. Extract the folder into your Bannerlord `Modules` directory : common\Mount & Blade II Bannerlord\Modules\
 3. Enable **Lord Plunder** in the launcher.  
 4. Start or load your campaign to activate the new features.
@@ -55,7 +55,7 @@ The richer the lord, the higher the chance to get better-quality loot.
 ## 💬 Feedback & Support
 This mod is still under development.  
 For bug reports, feature requests, or updates, please use the GitHub Issues page:  
-👉 [https://github.com/YourUsername/PrisonerPlunder/issues](https://github.com/YourUsername/PrisonerPlunder/issues)
+👉 [https://github.com/YourUsername/PrisonerPlunder/issues](https://github.com/YourUsername/LordPlunder/issues)
 
 ---
 
