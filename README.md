@@ -1,9 +1,9 @@
-# 🏰 Prisoner Plunder — Pillage Captured Lords After Battle
+# 🏰 Lord Plunder — Pillage Captured Lords After Battle
 
 ![Mod Banner](Media/banner.jpg)
 
 ## ⚔️ Description
-**Prisoner Plunder** adds an immersive post-battle mechanic to *Mount & Blade II: Bannerlord*.  
+**Lord Plunder** adds an immersive post-battle mechanic to *Mount & Blade II: Bannerlord*.  
 After each battle, if you capture enemy lords, you can now **pillage them**, **show mercy**, or soon **demand ransom** — every choice affects your **relations, charm, and wealth**.
 
 ---
@@ -38,9 +38,9 @@ The richer the lord, the higher the chance to get better-quality loot.
 ---
 
 ## 📦 Installation
-1. Download the latest version from the **[Releases](https://github.com/YourUsername/PrisonerPlunder/releases)** page.  
+1. Download the latest version from the **[Releases](https://github.com/YourUsername/Prisoner Plunder/releases)** page.  
 2. Extract the folder into your Bannerlord `Modules` directory : common\Mount & Blade II Bannerlord\Modules\
-3. Enable **Prisoner Plunder** in the launcher.  
+3. Enable **Lord Plunder** in the launcher.  
 4. Start or load your campaign to activate the new features.
 
 ---
@@ -62,7 +62,7 @@ For bug reports, feature requests, or updates, please use the GitHub Issues page
 ## 📸 Screenshots
 | Scene | Description |
 |--------|-------------|
-| ![](Media/bannerlord_screenshot_1.jpg) | Post-battle prisoner plunder UI |
+| ![](Media/bannerlord_screenshot_1.jpg) | Post-battle Lord Plunder UI |
 | ![](Media/bannerlord_screenshot_2.jpg) | Loot results window |
 
 ---
@@ -73,7 +73,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ---
 
 ## 🇹🇷 Türkçe Açıklama
-**Prisoner Plunder**, savaş sonrası esir alınan lordlara karşı yağmalama veya merhamet etme seçeneği ekleyen bir Bannerlord modudur.  
+**Lord Plunder**, savaş sonrası esir alınan lordlara karşı yağmalama veya merhamet etme seçeneği ekleyen bir Bannerlord modudur.  
 Her karar ilişkini, cazibeni ve ganimetini etkiler.
 
 ### Özellikler
