@@ -1,6 +1,6 @@
 # 🏰 Prisoner Plunder — Pillage Captured Lords After Battle
 
-![Mod Banner](Media/bannerlord_screenshot_1.jpg)
+![Mod Banner](Media/banner.jpg)
 
 ## ⚔️ Description
 **Prisoner Plunder** adds an immersive post-battle mechanic to *Mount & Blade II: Bannerlord*.  
