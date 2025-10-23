@@ -62,8 +62,8 @@ For bug reports, feature requests, or updates, please use the GitHub Issues page
 ## 📸 Screenshots
 | Scene | Description |
 |--------|-------------|
-| ![](Media/bannerlord_screenshot_1.jpg) | Post-battle Lord Plunder UI |
-| ![](Media/bannerlord_screenshot_2.jpg) | Loot results window |
+| ![](Media/Lord_Plunder_UI.png) | Post-battle Lord Plunder UI |
+| ![](Media/result.png) | Loot results window |
 
 ---
 
