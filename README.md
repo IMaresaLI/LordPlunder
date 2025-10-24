@@ -22,7 +22,7 @@ After each battle, if you capture enemy lords, you can now **pillage them**, **s
 | Action | Result |
 |--------|--------|
 | **Plunder Lord** | - Relation: −0 to −3 <br> - Loot: 1–3 random items (Common → Epic) <br> - Gold: 2%–10% of lord’s total wealth |
-| **Show Mercy** | - Relation: +1 to +5 <br> - Charm: increases slightly |
+| **Show Mercy** | - Relation: 0 to +5 <br> - Charm: increases slightly |
 | **Execute Lord** | - Gain all items and gold |
 
 The richer the lord, the higher the chance to get better-quality loot.
@@ -62,8 +62,8 @@ For bug reports, feature requests, or updates, please use the GitHub Issues page
 ## 📸 Screenshots
 | Scene | Description |
 |--------|-------------|
-| ![](Media/bannerlord_screenshot_1.jpg) | Post-battle Lord Plunder UI |
-| ![](Media/bannerlord_screenshot_2.jpg) | Loot results window |
+| ![](Media/Lord_Plunder_UI.png) | Post-battle Lord Plunder UI |
+| ![](Media/result.png) | Loot results window |
 
 ---
 
