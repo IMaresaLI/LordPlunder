@@ -51,7 +51,10 @@ The richer the lord, the higher the chance to get better-quality loot.
 - **Potential Conflicts:** Mods that heavily alter prisoner or execution systems  
 
 ---
+## 🙏 Support This Projects
+To help ensure the continued development and improvement of Lord Plunder, as well as future modding projects, you can offer your support through my [Patreon](https://www.patreon.com/cw/bytearchsoftware) or [Gumroad](https://bytearchsoft.gumroad.com/l/LordPlunder) pages. Every bit of encouragement is greatly appreciated.
 
+---
 ## 💬 Feedback & Support
 This mod is still under development.  
 For bug reports, feature requests, or updates, please use the GitHub Issues page:  
